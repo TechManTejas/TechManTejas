@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=techmantejas" alt="techmantejas" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/techmantejas](https://github.com/techmantejas)
-
 - 📫 How to reach me **techmantejas@gmail.com**
 
 - ⚡ Fun fact **I am a child Coder**
